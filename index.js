@@ -21,7 +21,8 @@ module.exports = function() {
  */
 
 function parse() {
-  var name, fullVersion, majorVersion, idx, userAgent = navigator.userAgent;
+  var name, fullVersion, majorVersion, offset, nameOffset, idx;
+  var userAgent = navigator.userAgent;
 
   // In Opera 15+, the true version is after "OPR/"
   if ((offset = userAgent.indexOf("OPR/")) != -1) {
