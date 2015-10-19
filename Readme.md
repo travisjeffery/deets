@@ -6,6 +6,8 @@ Library to get browser details. Name, version, size, etc.
 
 `npm install deets`
 
+And use via [browserify](https://github.com/substack/node-browserify).
+
 ## Example
 
 
