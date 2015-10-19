@@ -81,8 +81,10 @@ function parse() {
 
   return {
     name: name,
-    fullVersion: fullVersion,
-    majorVersion: majorVersion
+    version: {
+      full: fullVersion,
+      major: majorVersion
+    }
   };
 }
 
