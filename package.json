@@ -1,8 +1,8 @@
 {
-  "name": "browser-info",
+  "name": "deets",
   "version": "1.0.0",
   "author": "Travis Jeffery",
-  "description": "Small lib to get browser info: name, version, size, etc.",
+  "description": "Library to get browser details: name, version, size, etc.",
   "main": "index.js",
   "license": "MIT"
 }
