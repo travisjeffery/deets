@@ -2,7 +2,7 @@
   "name": "deets",
   "version": "1.0.0",
   "author": "Travis Jeffery",
-  "description": "Library to get browser details: name, version, size, etc.",
+  "description": "Library to get browser details. Name, version, size, etc.",
   "repository": "travisjeffery/deets",
   "main": "index.js",
   "license": "MIT"

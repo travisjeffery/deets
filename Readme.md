@@ -1,6 +1,6 @@
 # deets
 
-Library to get browser details: name, version, size, etc.
+Library to get browser details. Name, version, size, etc.
 
 ## Installation
 
