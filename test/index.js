@@ -1,6 +1,7 @@
 var browser = require('../');
 var assert = require('assert');
 
+// TODO: add more browsers...
 var tests = {
   chrome: {
     mock: {
