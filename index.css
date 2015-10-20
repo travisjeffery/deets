@@ -1,0 +1,20 @@
+* { margin: 0; }
+
+body {
+  padding-left: 10px;
+  font-family: helvetica, sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  padding-bottom: 10px;
+}
+
+p {
+  padding-bottom: 10px;
+}
+
+code {
+  font-family: monaco, monospace;
+  font-size: 16px;
+}

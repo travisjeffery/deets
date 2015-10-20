@@ -1,0 +1,11 @@
+{
+  "name": "deets-github-page",
+  "version": "1.0.0",
+  "author": "Travis Jeffery",
+  "description": "Library to get browser details: name, version, size, etc.",
+  "dependencies": {
+    "deets": "^1.0.1",
+    "json-stable-stringify": "^1.0.0"
+  },
+  "license": "MIT"
+}
